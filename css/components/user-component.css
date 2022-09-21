@@ -33,6 +33,10 @@
   color: var(--gray-color);
   font-size: 17px;
 }
+.user-component__subtitle-box {
+  display: flex;
+  align-items: center;
+}
 
 .user-component__column:last-child {
   color: var(--gray-color);

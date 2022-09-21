@@ -1,0 +1,11 @@
+.exclamation-mark {
+  width: 15px;
+  height: 15px;
+  border: 2px solid tomato;
+  border-radius: 50%;
+  color: tomato;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 8px;
+  margin-left: 5px;
+}
